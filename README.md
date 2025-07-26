@@ -1,5 +1,7 @@
 <!-- Niranjan Hegde GitHub Profile README -->
 
+![Profile views](https://komarev.com/ghpvc/?username=niranjanhegde-droid&color=blue)
+
 <h1 align="center">Hi 👋, I'm Niranjan Hegde</h1>
 <h3 align="center">🚀 Enthusiastic about AI/ML | Web Developer | Always Learning 💡</h3>
 
