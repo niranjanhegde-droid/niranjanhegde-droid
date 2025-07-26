@@ -11,7 +11,7 @@
 - 🧠 Exploring projects in **AI, Web Development, and Cloud**
 - 🌱 Passionate about **building real-world applications** using tech
 - 💬 Ask me about anything related to **Python, Flask, React, SQL**
-- 📫 How to reach me: [niranjanhegde@email.com](mailto:hegdeniranjan07@gmail.com)
+- 📫 How to reach me: [hegdeniranjan07@gmail.com](mailto:hegdeniranjan07@gmail.com)
 
 ---
 
